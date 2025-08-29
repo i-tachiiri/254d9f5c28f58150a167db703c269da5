@@ -1,6 +1,6 @@
-# Formula Script Template
+# 10までの足し算のプリント Formula Generator
 
-Google Apps Script 用の数式生成テンプレートプロジェクトです。
+Google Apps Script 用の10までの足し算のプリントの数式生成プロジェクトです。
 
 ## 🎯 このテンプレートについて
 
